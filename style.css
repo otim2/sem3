@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+ul{
+    display: flex;
+    justify-content: space-between;
+    background-color: blue;
+    padding: 30px;
+    
+}
+ul li{
+    list-style-type: none;
+
+}
+
+ul li a{
+    text-decoration: none;
+    font-weight: bolder;
+    padding: 20px;
+    color: greenyellow;
+    justify-content: space-between;
+    font-size: 17px;
+}
+.heading{
+    text-align: center ;
+    margin-top: 23px;
+}
+.heading h3{
+    color: cyan;
+}
+body{
+    background-color: yellow;
+}
+
+.logo{
+    margin-left: 45%;
+    margin-top: 12px;
+}
+.log2{
+    height: 200px;
+    width: 209px;
+    padding-left: 17px;
+}
+.ofice{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
